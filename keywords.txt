@@ -5,6 +5,7 @@ api_token
 api token
 client_id
 password
+delete
 user_password
 user_pass
 passcode
